@@ -7,6 +7,10 @@
     color: #333 !important;
     font-weight: 500 !important;
  }
+ .change {
+    font-size: 10px !important;
+
+ }
 
  h2 {
      font-size: 20px !important;
@@ -216,7 +220,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/wedding2.JPG);
+    background-image: url(../images/wedding1.jpg);
     background-size: cover;
     z-index: -1;
     
